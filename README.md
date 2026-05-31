@@ -32,4 +32,4 @@ This repository contains an end-to-end data analytics project focused on monitor
 
 ---
 **Maintained by Naveen Poddar**  
-*MBA Candidate (Business Analytics) | IT Operations & Data Specialist*
+*MBA Candidate (Operations & Data Science) | IT Operations & Data Specialist*
