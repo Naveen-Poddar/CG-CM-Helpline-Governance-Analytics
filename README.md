@@ -1,36 +1,35 @@
-# 🏛️ Chhattisgarh State CM Helpline Dashboard: Performance & Governance Analytics
+# Chhattisgarh State CM Helpline - Public Governance Analytics Dashboard
 
-An end-to-end data analytics and business intelligence project designed to monitor, analyze, and optimize citizen grievance redressal performance for the Chhattisgarh State CM Helpline. This project builds a complete data pipeline—from structural database management to automated ETL cleaning and executive dashboarding.
+This repository contains an end-to-end data analytics project focused on monitoring and improving citizen grievance redressal for the Chhattisgarh State CM Helpline. The project covers data infrastructure setup, automated cleaning, and executive reporting.
 
 ---
 
-## 📊 Executive Dashboard Preview
-
+## Executive Dashboard Preview
 ![CM Helpline Dashboard](dashboard_screenshot.png)
 
 ---
 
-## 🛠️ Tech Stack & Project Architecture
-*   **Database Management:** SQL Server (Data Infrastructure, Schema Definition, Metrics Tracking)
-*   **Data Pipeline & ETL:** Python (Pandas) inside Jupyter Notebook for automated data imputation and structural cleaning
-*   **Business Intelligence:** Power BI (DAX, Interactive Data Modeling, SLA Performance Tracking)
+## Tools & Technologies Used
+*   **Database Management:** SQL Server (Database creation, schemas, and metrics logging)
+*   **Data Cleaning & ETL:** Python / Pandas (Jupyter Notebook used for data type casting, handling missing records, and formatting)
+*   **Data Visualization:** Power BI (Data modeling, DAX measures, and dashboard development)
 
 ---
 
-## 📁 Repository Directory
-*   `cm_helpline_data_infrastructure.sql`: Contains the complete database setup, structural schemas, and foundational data insertion.
-*   `data_cleaning_pipeline.ipynb`: Jupyter notebook containing the Python Pandas ETL pipeline used to clean missing values and structural inconsistencies.
-*   `CM_Helpline_Clean_Data.csv`: The final, clean production-ready dataset powering the BI dashboard.
-*   `CM_Helpline_Governance_Dashboard.pbix`: The final Power BI file featuring key performance indicators (KPIs), trend analysis, and regional performance matrices.
+## File Structure
+*   `cm_helpline_data_infrastructure.sql` - Full SQL script for raw data structure and tables.
+*   `data_cleaning_pipeline.ipynb` - Jupyter notebook with Pandas code used to process raw data.
+*   `CM_Helpline_Clean_Data.csv` - Final clean dataset exported after the ETL process.
+*   `CM_Helpline_Governance_Dashboard.pbix` - Power BI file with interactive dashboards and SLA tracking matrix.
 
 ---
 
-## 💡 Key Business Insights Delivered
-1.  **Workload Distribution:** Identified that *Electricity*, *Municipal*, and *Ration/Food* departments represent the highest case volume across districts.
-2.  **SLA Compliance & Aging:** Visualized structural aging of pending cases, pinpointing that 74% of unresolved issues fall within the critical 0-3 days window, allowing teams to intervene before breach.
-3.  **Regional Resolution Efficiency:** Created an interactive matrix cross-referencing Districts against Departments to allow public administrators to filter by operational blockages instantly.
-4.  **Inflow Forecasting Trends:** Tracked a steady daily complaint trend averaging ~1.94 days for standard resolution, optimizing administrative resource allocation.
+## Key Operational Insights
+1.  **High Volume Departments:** The analysis shows that Electricity, Municipal, and Ration/Food complaints make up the largest share of the workload across most districts.
+2.  **SLA Tracking:** Around 74% of unresolved complaints currently fall within the 0 to 3 days window. Tracking this helps administrators address cases before they breach standard resolution timelines.
+3.  **District Performance Matrix:** Built an interactive view cross-referencing districts and departments, allowing public management teams to spot regional blockages instantly.
+4.  **Inflow Analysis:** Monitored the daily complaint flow trends to help optimize government resource and staff allocation based on departmental pressure.
 
 ---
-**Developed by Naveen Poddar**  
-*MBA in operations and data science Candidate | IT Operations & Data Analytics Enthusiast*
+**Maintained by Naveen Poddar**  
+*MBA Candidate (Business Analytics) | IT Operations & Data Specialist*
