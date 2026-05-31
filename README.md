@@ -5,7 +5,7 @@ An end-to-end data analytics and business intelligence project designed to monit
 ---
 
 ## 📊 Executive Dashboard Preview
-*(Note: Upload your dashboard screenshot as `dashboard_screenshot.png` in the repository to make it visible here)*
+
 ![CM Helpline Dashboard](dashboard_screenshot.jpg)
 
 ---
