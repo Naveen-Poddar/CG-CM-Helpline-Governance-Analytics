@@ -6,7 +6,7 @@ An end-to-end data analytics and business intelligence project designed to monit
 
 ## 📊 Executive Dashboard Preview
 
-![CM Helpline Dashboard](dashboard_screenshot.jpg)
+![CM Helpline Dashboard](dashboard_screenshot.png)
 
 ---
 
