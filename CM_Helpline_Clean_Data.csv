@@ -1,0 +1,101 @@
+Complaint_ID,Citizen_Name,District,Department,Complaint_Type,Registered_Date,Resolution_Days,Current_Status,Assigned_Level
+1001,Ramesh Kumar,Durg,Electricity,Power Outage in Ward 10,01-04-2026,2,Resolved,L3
+1002,Sita Sahu,Raipur,Ration/Food,Ration Card Not Issued,01-04-2026,0,Pending,L2
+1003,Amit Singh,Bilaspur,Municipal,Garbage Collection Issue,02-04-2026,1,Resolved,L3
+1004,Naveen Sahu,Durg,Water Supply,No Water in Nehru Nagar,02-04-2026,4,Resolved,L3
+1005,Priya Patel,Bastar,Health,Medicines Unavailable in PHC,03-04-2026,0,Pending,L2
+1006,Rajesh Mandavi,Kanker,Revenue,Land Demarcation Delay,03-04-2026,0,Pending,L2
+1007,Anjali Verma,Durg,Electricity,High Electricity Bill,04-04-2026,0,Pending,L1
+1008,Vikram Chandrakar,Dhamtari,Agriculture,Kisan Subsidy Not Received,05-04-2026,7,Resolved,L3
+1009,Suresh Korram,Surguja,Ration/Food,Ration Shop Closed frequently,05-04-2026,0,Pending,L2
+1010,Deepak Yadav,Raipur,Municipal,Potholes on Main Road,06-04-2026,0,Pending,L2
+1011,Citizen_1011,Bastar,Ration/Food,Sample Grievance Description 1011,07-04-2026,0,Pending,L2
+1012,Citizen_1012,Durg,Municipal,Sample Grievance Description 1012,08-04-2026,3,Resolved,L3
+1013,Citizen_1013,Raipur,Water Supply,Sample Grievance Description 1013,09-04-2026,4,Resolved,L3
+1014,Citizen_1014,Bilaspur,Revenue,Sample Grievance Description 1014,10-04-2026,0,Pending,L2
+1015,Citizen_1015,Bastar,Electricity,Sample Grievance Description 1015,11-04-2026,1,Resolved,L3
+1016,Citizen_1016,Durg,Ration/Food,Sample Grievance Description 1016,12-04-2026,2,Resolved,L3
+1017,Citizen_1017,Raipur,Municipal,Sample Grievance Description 1017,13-04-2026,0,Pending,L2
+1018,Citizen_1018,Bilaspur,Water Supply,Sample Grievance Description 1018,14-04-2026,4,Resolved,L3
+1019,Citizen_1019,Bastar,Revenue,Sample Grievance Description 1019,15-04-2026,5,Resolved,L3
+1020,Citizen_1020,Durg,Electricity,Sample Grievance Description 1020,01-04-2026,0,Pending,L2
+1021,Citizen_1021,Raipur,Ration/Food,Sample Grievance Description 1021,02-04-2026,2,Resolved,L3
+1022,Citizen_1022,Bilaspur,Municipal,Sample Grievance Description 1022,03-04-2026,3,Resolved,L3
+1023,Citizen_1023,Bastar,Water Supply,Sample Grievance Description 1023,04-04-2026,0,Pending,L2
+1024,Citizen_1024,Durg,Revenue,Sample Grievance Description 1024,05-04-2026,5,Resolved,L3
+1025,Citizen_1025,Raipur,Electricity,Sample Grievance Description 1025,06-04-2026,1,Resolved,L3
+1026,Citizen_1026,Bilaspur,Ration/Food,Sample Grievance Description 1026,07-04-2026,0,Pending,L2
+1027,Citizen_1027,Bastar,Municipal,Sample Grievance Description 1027,08-04-2026,3,Resolved,L3
+1028,Citizen_1028,Durg,Water Supply,Sample Grievance Description 1028,09-04-2026,4,Resolved,L3
+1029,Citizen_1029,Raipur,Revenue,Sample Grievance Description 1029,10-04-2026,0,Pending,L2
+1030,Citizen_1030,Bilaspur,Electricity,Sample Grievance Description 1030,11-04-2026,1,Resolved,L3
+1031,Citizen_1031,Bastar,Ration/Food,Sample Grievance Description 1031,12-04-2026,2,Resolved,L3
+1032,Citizen_1032,Durg,Municipal,Sample Grievance Description 1032,13-04-2026,0,Pending,L2
+1033,Citizen_1033,Raipur,Water Supply,Sample Grievance Description 1033,14-04-2026,4,Resolved,L3
+1034,Citizen_1034,Bilaspur,Revenue,Sample Grievance Description 1034,15-04-2026,5,Resolved,L3
+1035,Citizen_1035,Bastar,Electricity,Sample Grievance Description 1035,01-04-2026,0,Pending,L2
+1036,Citizen_1036,Durg,Ration/Food,Sample Grievance Description 1036,02-04-2026,2,Resolved,L3
+1037,Citizen_1037,Raipur,Municipal,Sample Grievance Description 1037,03-04-2026,3,Resolved,L3
+1038,Citizen_1038,Bilaspur,Water Supply,Sample Grievance Description 1038,04-04-2026,0,Pending,L2
+1039,Citizen_1039,Bastar,Revenue,Sample Grievance Description 1039,05-04-2026,5,Resolved,L3
+1040,Citizen_1040,Durg,Electricity,Sample Grievance Description 1040,06-04-2026,1,Resolved,L3
+1041,Citizen_1041,Raipur,Ration/Food,Sample Grievance Description 1041,07-04-2026,0,Pending,L2
+1042,Citizen_1042,Bilaspur,Municipal,Sample Grievance Description 1042,08-04-2026,3,Resolved,L3
+1043,Citizen_1043,Bastar,Water Supply,Sample Grievance Description 1043,09-04-2026,4,Resolved,L3
+1044,Citizen_1044,Durg,Revenue,Sample Grievance Description 1044,10-04-2026,0,Pending,L2
+1045,Citizen_1045,Raipur,Electricity,Sample Grievance Description 1045,11-04-2026,1,Resolved,L3
+1046,Citizen_1046,Bilaspur,Ration/Food,Sample Grievance Description 1046,12-04-2026,2,Resolved,L3
+1047,Citizen_1047,Bastar,Municipal,Sample Grievance Description 1047,13-04-2026,0,Pending,L2
+1048,Citizen_1048,Durg,Water Supply,Sample Grievance Description 1048,14-04-2026,4,Resolved,L3
+1049,Citizen_1049,Raipur,Revenue,Sample Grievance Description 1049,15-04-2026,5,Resolved,L3
+1050,Citizen_1050,Bilaspur,Electricity,Sample Grievance Description 1050,01-04-2026,0,Pending,L2
+1051,Citizen_1051,Bastar,Ration/Food,Sample Grievance Description 1051,02-04-2026,2,Resolved,L3
+1052,Citizen_1052,Durg,Municipal,Sample Grievance Description 1052,03-04-2026,3,Resolved,L3
+1053,Citizen_1053,Raipur,Water Supply,Sample Grievance Description 1053,04-04-2026,0,Pending,L2
+1054,Citizen_1054,Bilaspur,Revenue,Sample Grievance Description 1054,05-04-2026,5,Resolved,L3
+1055,Citizen_1055,Bastar,Electricity,Sample Grievance Description 1055,06-04-2026,1,Resolved,L3
+1056,Citizen_1056,Durg,Ration/Food,Sample Grievance Description 1056,07-04-2026,0,Pending,L2
+1057,Citizen_1057,Raipur,Municipal,Sample Grievance Description 1057,08-04-2026,3,Resolved,L3
+1058,Citizen_1058,Bilaspur,Water Supply,Sample Grievance Description 1058,09-04-2026,4,Resolved,L3
+1059,Citizen_1059,Bastar,Revenue,Sample Grievance Description 1059,10-04-2026,0,Pending,L2
+1060,Citizen_1060,Durg,Electricity,Sample Grievance Description 1060,11-04-2026,1,Resolved,L3
+1061,Citizen_1061,Raipur,Ration/Food,Sample Grievance Description 1061,12-04-2026,2,Resolved,L3
+1062,Citizen_1062,Bilaspur,Municipal,Sample Grievance Description 1062,13-04-2026,0,Pending,L2
+1063,Citizen_1063,Bastar,Water Supply,Sample Grievance Description 1063,14-04-2026,4,Resolved,L3
+1064,Citizen_1064,Durg,Revenue,Sample Grievance Description 1064,15-04-2026,5,Resolved,L3
+1065,Citizen_1065,Raipur,Electricity,Sample Grievance Description 1065,01-04-2026,0,Pending,L2
+1066,Citizen_1066,Bilaspur,Ration/Food,Sample Grievance Description 1066,02-04-2026,2,Resolved,L3
+1067,Citizen_1067,Bastar,Municipal,Sample Grievance Description 1067,03-04-2026,3,Resolved,L3
+1068,Citizen_1068,Durg,Water Supply,Sample Grievance Description 1068,04-04-2026,0,Pending,L2
+1069,Citizen_1069,Raipur,Revenue,Sample Grievance Description 1069,05-04-2026,5,Resolved,L3
+1070,Citizen_1070,Bilaspur,Electricity,Sample Grievance Description 1070,06-04-2026,1,Resolved,L3
+1071,Citizen_1071,Bastar,Ration/Food,Sample Grievance Description 1071,07-04-2026,0,Pending,L2
+1072,Citizen_1072,Durg,Municipal,Sample Grievance Description 1072,08-04-2026,3,Resolved,L3
+1073,Citizen_1073,Raipur,Water Supply,Sample Grievance Description 1073,09-04-2026,4,Resolved,L3
+1074,Citizen_1074,Bilaspur,Revenue,Sample Grievance Description 1074,10-04-2026,0,Pending,L2
+1075,Citizen_1075,Bastar,Electricity,Sample Grievance Description 1075,11-04-2026,1,Resolved,L3
+1076,Citizen_1076,Durg,Ration/Food,Sample Grievance Description 1076,12-04-2026,2,Resolved,L3
+1077,Citizen_1077,Raipur,Municipal,Sample Grievance Description 1077,13-04-2026,0,Pending,L2
+1078,Citizen_1078,Bilaspur,Water Supply,Sample Grievance Description 1078,14-04-2026,4,Resolved,L3
+1079,Citizen_1079,Bastar,Revenue,Sample Grievance Description 1079,15-04-2026,5,Resolved,L3
+1080,Citizen_1080,Durg,Electricity,Sample Grievance Description 1080,01-04-2026,0,Pending,L2
+1081,Citizen_1081,Raipur,Ration/Food,Sample Grievance Description 1081,02-04-2026,2,Resolved,L3
+1082,Citizen_1082,Bilaspur,Municipal,Sample Grievance Description 1082,03-04-2026,3,Resolved,L3
+1083,Citizen_1083,Bastar,Water Supply,Sample Grievance Description 1083,04-04-2026,0,Pending,L2
+1084,Citizen_1084,Durg,Revenue,Sample Grievance Description 1084,05-04-2026,5,Resolved,L3
+1085,Citizen_1085,Raipur,Electricity,Sample Grievance Description 1085,06-04-2026,1,Resolved,L3
+1086,Citizen_1086,Bilaspur,Ration/Food,Sample Grievance Description 1086,07-04-2026,0,Pending,L2
+1087,Citizen_1087,Bastar,Municipal,Sample Grievance Description 1087,08-04-2026,3,Resolved,L3
+1088,Citizen_1088,Durg,Water Supply,Sample Grievance Description 1088,09-04-2026,4,Resolved,L3
+1089,Citizen_1089,Raipur,Revenue,Sample Grievance Description 1089,10-04-2026,0,Pending,L2
+1090,Citizen_1090,Bilaspur,Electricity,Sample Grievance Description 1090,11-04-2026,1,Resolved,L3
+1091,Citizen_1091,Bastar,Ration/Food,Sample Grievance Description 1091,12-04-2026,2,Resolved,L3
+1092,Citizen_1092,Durg,Municipal,Sample Grievance Description 1092,13-04-2026,0,Pending,L2
+1093,Citizen_1093,Raipur,Water Supply,Sample Grievance Description 1093,14-04-2026,4,Resolved,L3
+1094,Citizen_1094,Bilaspur,Revenue,Sample Grievance Description 1094,15-04-2026,5,Resolved,L3
+1095,Citizen_1095,Bastar,Electricity,Sample Grievance Description 1095,01-04-2026,0,Pending,L2
+1096,Citizen_1096,Durg,Ration/Food,Sample Grievance Description 1096,02-04-2026,2,Resolved,L3
+1097,Citizen_1097,Raipur,Municipal,Sample Grievance Description 1097,03-04-2026,3,Resolved,L3
+1098,Citizen_1098,Bilaspur,Water Supply,Sample Grievance Description 1098,04-04-2026,0,Pending,L2
+1099,Citizen_1099,Bastar,Revenue,Sample Grievance Description 1099,05-04-2026,5,Resolved,L3
+1100,Citizen_1100,Durg,Electricity,Sample Grievance Description 1100,06-04-2026,1,Resolved,L3
